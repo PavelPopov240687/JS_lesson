@@ -22,7 +22,7 @@ while (!isSunk) {
                 alert("Вы потопили корабль");
             }
         } else {
-            alert("Мимо");
+            alert("МИМО");
         }
     }
 }
